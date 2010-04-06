@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties version="1">
+  <includeClasses>
+    <classEntry path="org.mazerte.oilInjector.actions.SequenceAction"/>
+    <classEntry path="org.mazerte.oilInjector.control.IFrontController"/>
+    <classEntry path="org.mazerte.oilInjector.model.IModelLocator"/>
+    <classEntry path="org.mazerte.oilInjector.control.factory.FrontControllerFactory"/>
+    <classEntry path="org.mazerte.oilInjector.business.HTTPServices"/>
+    <classEntry path="org.mazerte.oilInjector.model.factory.ModelLocatorFactory"/>
+    <classEntry path="org.mazerte.oilInjector.business.IServices"/>
+    <classEntry path="org.mazerte.oilInjector.business.Responder"/>
+    <classEntry path="org.mazerte.oilInjector.OilInjectorError"/>
+    <classEntry path="org.mazerte.oilInjector.model.ModelLocator"/>
+    <classEntry path="org.mazerte.oilInjector.commands.DelayCommand"/>
+    <classEntry path="org.mazerte.oilInjector.control.OilInjectorEventDispatcher"/>
+    <classEntry path="org.mazerte.oilInjector.business.ServiceLocator"/>
+    <classEntry path="org.mazerte.oilInjector.view.factory.ViewLocatorFactory"/>
+    <classEntry path="org.mazerte.oilInjector.view.ViewHelper"/>
+    <classEntry path="org.mazerte.oilInjector.vo.ValueObject"/>
+    <classEntry path="org.mazerte.oilInjector.control.OilInjectorEvent"/>
+    <classEntry path="org.mazerte.oilInjector.vo.IValueObject"/>
+    <classEntry path="org.mazerte.oilInjector.business.IServiceLocator"/>
+    <classEntry path="org.mazerte.oilInjector.view.ViewLocator"/>
+    <classEntry path="org.mazerte.oilInjector.control.FrontController"/>
+    <classEntry path="org.mazerte.oilInjector.actions.Action"/>
+    <classEntry path="org.mazerte.oilInjector.commands.MacroCommand"/>
+    <classEntry path="org.mazerte.oilInjector.business.RemoteObjects"/>
+    <classEntry path="org.mazerte.oilInjector.commands.factory.CommandClassFactory"/>
+    <classEntry path="org.mazerte.oilInjector.commands.AbstractCommand"/>
+    <classEntry path="org.mazerte.oilInjector.commands.CommandEvent"/>
+    <classEntry path="org.mazerte.oilInjector.OilInjectorMessageCodes"/>
+    <classEntry path="org.mazerte.oilInjector.business.AbstractServices"/>
+    <classEntry path="org.mazerte.oilInjector.business.WebServices"/>
+    <classEntry path="org.mazerte.oilInjector.actions.IAction"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
